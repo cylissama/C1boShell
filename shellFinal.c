@@ -84,7 +84,7 @@ void show_help(void){
 	printf(RED "C1b0" RESET);
 	printf(" - Your Simple Unix Shell\n");
     printf("-------------------------------------------------\n");
-    printf(RED "C1b0" RESET)
+    printf(RED "C1b0" RESET);
     printf(" is a basic Unix shell that supports various\n");
     printf("commands and features. Here's how you can use it:\n");
     printf("\n");
@@ -123,7 +123,7 @@ void main_loop() {
 	printf("     __'---------'__ \\\n");
 	printf("    [::::::::::: :::] )\n");
 	printf("     `\"\"'\"\"\"\"\"\"\"`/T\\\n");
-	printf("                    \\_/\n");
+	printf("  Developed by Cy Dixon    \n");
 
     printf(GRN "\nWelcome to my simple Unix shell, C1b0!" RESET);
     printf(GRN "\nI hope you enjoy, type 'help' if you need help!\n\n" RESET);
